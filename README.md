@@ -5,4 +5,4 @@ You can find the currucilum [here](https://github.com/llSourcell/Learn_Data_Scie
 
 ## Part-1 Data Analysis
 - Python (I have some knowledge of python, so skipping it)
-- [Statistics and Probability](https://github.com/hardikkamboj/Statistics-and-Probability)
+- [Statistics and Probability](https://github.com/hardikkamboj/Statistics-and-Probability) (8th Nov-2020 - )
